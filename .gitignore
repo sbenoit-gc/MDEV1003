@@ -78,3 +78,7 @@ Android_ASTC/*
 
 # added DS Store ignore
 .DS_Store
+
+# IOS Builds
+IOS/*
+
