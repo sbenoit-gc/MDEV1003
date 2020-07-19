@@ -91,3 +91,5 @@ Android_ASTC/*
 # IOS Builds
 IOS/*
 
+# Windows Builds
+WindowsNoEditor/*
