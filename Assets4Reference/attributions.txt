@@ -1,0 +1,4 @@
+power up sound - by RubberDuck on opengameart, part of "50 CC0 retro / synth SFX" 
+GC logos and 3D models - internal from GCi
+barrelmdel and componenets - S Benoit per MDEV1003 course
+
